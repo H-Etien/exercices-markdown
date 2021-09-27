@@ -31,3 +31,7 @@ The information which go through the internet :
 - a picture
 
 is cut into small packets which are reassemble when they arrive at their destination. 
+
+LGTM
+
+this theory file has been reviewed by Etienne
