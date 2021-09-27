@@ -18,7 +18,7 @@ Il est possible de formater du texte:
 
 Il est possible de créer des liens entre des fichier.md. La syntaxte pour y parvenir est facile 
 
-[je crée un lien](https://github.com/thomasmelchers/exercices-markdown/new/main/README.md)
+[je crée un lien](https://github.com/thomasmelchers/exercices-markdown/blob/main/README.md)
 
 
 ### voici une image
